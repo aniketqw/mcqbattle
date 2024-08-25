@@ -1,33 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4271344-186f-48ec-b05f-43ac4ba5b6d2" name="Changes" comment="" />
+    <list default="true" id="e4271344-186f-48ec-b05f-43ac4ba5b6d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mcqbattle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_app/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqbattle/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqbattle/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqbattle/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqbattle/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqbattle/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqs/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqs/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqs/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqs/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqs/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqs/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqs/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqs/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aniketqw"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aniketqw/mcqbattle.git",
+    "accountId": "8ca72624-0183-400b-a1ce-32d867bbc2f4"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2i5un3u4AOkBCdCfWnR0ZbYaW33" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Django Server.mcqbattle.executor": "Run",
+    "Python.models.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/Project/MCQ_BATTLE/mcqbattle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\mcqbattle\mcqs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mcqbattle" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mcqbattle" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mcqbattle.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,8 +143,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718792926026</updated>
-      <workItem from="1718792929580" duration="59000" />
+      <workItem from="1718792929580" duration="350000" />
+      <workItem from="1718793290175" duration="8677000" />
+      <workItem from="1719034004433" duration="715000" />
+      <workItem from="1719056784151" duration="7260000" />
+      <workItem from="1719066359800" duration="129000" />
+      <workItem from="1720035557669" duration="574000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mcqbattle$models.coverage" NAME="models Coverage Results" MODIFIED="1718798564737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auth_app" />
   </component>
 </project>
